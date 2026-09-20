@@ -1,4 +1,4 @@
-# Git Practice
+# Git Practice - Aashma Varma (av3648)
 
 ## The Article I Chose
 
